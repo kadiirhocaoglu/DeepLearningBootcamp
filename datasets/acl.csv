@@ -1,0 +1,490 @@
+Acil Durum Cümlesi,Aciliyet Puanı
+Yangın çıktı!,Yüksek
+Kimyasal sızıntı oldu!,Yüksek
+Deprem meydana geldi!,Yüksek
+Su baskını yaşanıyor!,Yüksek
+Elektrik kesintisi oldu!,Orta
+Trafik kazası meydana geldi!,Orta
+Bir kişi bayıldı!,Orta
+Asansör arızalandı!,Orta
+Merdivenlerde yangın var!,Orta
+Şüpheli paket bulundu!,Orta
+Küçük bir yaralanma oldu!,Düşük
+Bir su tesisatı sızıntısı var!,Düşük
+Küçük bir trafik sıkışıklığı var!,Düşük
+Bir kişi kayboldu!,Düşük
+Bir kapı kilitlendi!,Düşük
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+Yangın çıktı!,Yüksek
+Kimyasal sızıntı oldu!,Yüksek
+Deprem meydana geldi!,Yüksek
+Su baskını yaşanıyor!,Yüksek
+Elektrik kesintisi oldu!,Orta
+Trafik kazası meydana geldi!,Orta
+Bir kişi bayıldı!,Orta
+Asansör arızalandı!,Orta
+Merdivenlerde yangın var!,Orta
+Şüpheli paket bulundu!,Orta
+Küçük bir yaralanma oldu!,Düşük
+Bir su tesisatı sızıntısı var!,Düşük
+Küçük bir trafik sıkışıklığı var!,Düşük
+Bir kişi kayboldu!,Düşük
+Bir kapı kilitlendi!,Düşük
+Evde gaz kokusu var!,Yüksek
+Acil tıbbi yardım gerekiyor!,Yüksek
+Ana su hattında patlama meydana geldi!,Yüksek
+Bir çocuk kayıp!,Yüksek
+Büyük bir kaza oldu!,Yüksek
+Yangın alarmı çalıyor!,Orta
+Bir araba çarpma tehlikesi altında!,Orta
+Küçük bir yangın çıktı!,Orta
+İtfaiyeye ihtiyaç var!,Orta
+Acil ambulans gerekiyor!,Orta
+Kayıp evcil hayvan var!,Düşük
+Bir kedi ağaçta mahsur kaldı!,Düşük
+Suda boğulma tehlikesi var!,Düşük
+Asansörde mahsur kalanlar var!,Düşük
+Çocuklar okulda kalmış!,Düşük
+Bir kişi rahatsızlandı!,Orta
+Ana su hattı patladı!,Yüksek
+Evde hırsızlık olduğu düşünülüyor!,Yüksek
+Bir inşaat kazası oldu!,Yüksek
+Telefon hattında arıza var!,Orta
+Bir çocuk kaybolduğunu iddia eden bir çağrı geldi!,Orta
+"Kapı kilitlendi, içeride biri olduğu düşünülüyor!",Orta
+Mahsur kalanlar için yardım gerekiyor!,Orta
+Sıcak su tesisatında arıza var!,Orta
+Küçük bir trafik kazası var!,Orta
+Acil elektrik tamiri gerekiyor!,Orta
+Bir çocuk yüksek ateşte!,Orta
+Bir apartman yangını raporu geldi!,Yüksek
+"Bir çocuk yaralandı, acil yardım gerekiyor!",Yüksek
+"Yangın tüpü patladı, yangın çıktı!",Yüksek
+Kuyruklu bir yılan evde görüldü!,Yüksek
+Bir kişi acil tıbbi yardım gerektiriyor!,Yüksek
+"Su baskını, bina alt katlarına ulaşıyor!",Yüksek
+"Elektrik telleri yere düştü, tehlike arz ediyor!",Yüksek
+Bir kadın gözaltında olduğunu iddia ediyor!,Orta
+Bir evin içinde duman gözüküyor!,Yüksek
+"Mahsur kalan biri, enkaz altında olduğunu söylüyor!",Yüksek
+Okulda bir yangın alarmı çaldı!,Orta
+"Yol kapandı, kaza nedeniyle!",Orta
+"Bir bebek yüksek ateşte, hemen yardım gerekiyor!",Yüksek
+"Küçük bir kaza oldu, ambulans çağrısı gerekiyor!",Orta
+Bir evcil hayvan kurtarılmayı bekliyor!,Orta
+"Bir çocuk, ağaçta mahsur kaldı!",Orta
+Bir apartman dumanla dolu!,Yüksek
+Yüksek bir bina yangını raporu geldi!,Yüksek
+Çocuklar parkta kayboldu!,Yüksek
+Bir araba sel sularına kapıldı!,Yüksek
+"Bir kişi kalp krizi geçiriyor, acil tıbbi yardım!",Yüksek
+"Büyük bir kaza meydana geldi, çok sayıda yaralı!",Yüksek
+"Bir kedi ağaçta mahsur kaldı, kurtarılmalı!",Orta
+Bir kadın evde şiddet mağduru olduğunu söylüyor!,Orta
+"Bir binanın çatısı uçtu, tehlike var!",Yüksek
+"Bir çocuk eve dönmedi, kayıp ilan edildi!",Orta
+"Birisi arabada sıkıştı, itfaiye gerekiyor!",Yüksek
+Tıbbi malzemeler acilen teslim edilmeli!,Orta
+"Birisi mahsur kaldı, enkaz altında olduğunu söylüyor!",Yüksek
+Bir evcil hayvan yangından kaçamadı!,Orta
+"Ana su hattı patladı, su baskını var!",Yüksek
+"Yüksek gerilim hatları düştü, tehlike var!",Yüksek
+"Bir kişi ağır yaralandı, acil tıbbi yardım!",Yüksek
+"Bir araba kaza yaptı, hemen yardım gerekiyor!",Orta
+"Küçük bir su sızıntısı var, onarım gerekiyor!",Orta
+"Bir çocuk kayboldu, arama kurtarma ekibi çağrılmalı!",Yüksek
+Evdeki gaz kokusu nedeniyle tahliye edilmeli!,Yüksek
+"Bir bina çöktü, enkaz altında insanlar var!",Yüksek
+"Bir kadın evde rehin alındı, polis gerekiyor!",Yüksek
+"Bir araba trafikte kaza yaptı, yardım gerekli!",Orta
+"Bir yangın alarmı çalıyor, yangın tehlikesi var!",Orta
+Mahsur kalanlar için kurtarma ekibi gerekiyor!,Yüksek
+"Ana su hattında patlama meydana geldi, su baskını!",Yüksek
+"Bir kişi ağır hasta, ambulans gerekiyor!",Yüksek
+"Evde duman algılandı, yangın olabilir!",Yüksek
+"Bir çocuk yaralandı, hemen ambulans çağrılmalı!",Yüksek
+"Bir kaza meydana geldi, yaralılar var!",Yüksek
+"Su tesisatında arıza var, tamir edilmeli!",Orta
+Bir kişi acil tıbbi yardım gerektiriyor!,Yüksek
+"Yangın tüpü patladı, yangın çıktı, itfaiye!",Yüksek
+"Bir evcil hayvan kayboldu, aranıyor!",Orta
+"Su baskını var, bina sular altında!",Yüksek
+"Elektrik telleri düştü, tehlike var, yola dikkat!",Yüksek
+Bir çocuk kaybolduğunu bildiren bir çağrı var!,Orta
+"Bir evde duman gözüktü, yangın alarmı!",Yüksek
+"İtfaiye ekipleri, enkaz altında insanlar!",Yüksek
+"Okulda yangın alarmı çalıyor, tahliye!",Orta
+"Yolda kaza oldu, trafik sıkışıklığı!",Orta
+"Bir çocuk yüksek ateşte, hemen yardım!",Yüksek
+"Bir bina yanıyor, itfaiye çağrıldı!",Yüksek
+"Bir çocuk yaralandı, hemen ambulans!",Yüksek
+"Yangın çıktı, yangın tüpü patladı!",Yüksek
+"Evde yılan görüldü, tehlike var!",Yüksek
+"Bir kişi ağır yaralandı, ambulans!",Yüksek
+"Ana su hattı patladı, su baskını!",Yüksek
+Evde hırsızlık olduğu düşünülüyor!,Yüksek
+"İnşaat alanında kaza oldu, yaralılar!",Yüksek
+"Telefon hattında arıza var, onarım!",Orta
+Bir çocuk kaybolduğunu iddia eden çağrı!,Orta
+"Bir kapı kilitlendi, içeride biri!",Orta
+Mahsur kalanlar için yardım!,Yüksek
+Sıcak su tesisatında arıza!,Orta
+"Trafik kazası, yaralılar var!",Orta
+Acil elektrik tamiri!,Orta
+Bir çocuk yüksek ateşle!,Orta
+"Apartman yangını, itfaiye!",Yüksek
+"Yaralı bir çocuk, ambulans!",Yüksek
+"Yangın tüpü patladı, yangın!",Yüksek
+Evde kuyruklu yılan!,Yüksek
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Su baskını, alt katlara ulaşıyor!",Yüksek
+"Elektrik telleri düştü, tehlike!",Yüksek
+Evde kadın gözaltında!,Orta
+"Evde duman var, yangın!",Yüksek
+"Mahsur kalanlar, enkaz altında!",Yüksek
+Okulda yangın alarmı!,Orta
+"Kaza, yol kapandı!",Orta
+"Yüksek ateş, bebek!",Yüksek
+"Küçük kaza, ambulans!",Orta
+"Su sızıntısı, onarım!",Orta
+"Kaybolan çocuk, arama kurtarma!",Yüksek
+"Gaz sızıntısı, tahliye!",Yüksek
+"Bina çöktü, enkaz!",Yüksek
+Evde rehine durumu!,Yüksek
+"Kaza, trafik sıkışıklığı!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Su baskını, ana su hattı patladı!",Yüksek
+"Ağır hasta, ambulans!",Yüksek
+"Duman, evde yangın!",Yüksek
+"Yaralı çocuk, ambulans!",Yüksek
+"Kaza, yaralılar!",Yüksek
+"Su arızası, tamir!",Orta
+Acil tıbbi yardım!,Yüksek
+"Yangın, itfaiye!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, bina sular altında!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, onarılmalı!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, ev tahliye edilmeli!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Rehin alınan kadın, polis!",Yüksek
+"Kaza, trafik sıkışıklığı var!",Orta
+"Yangın alarmı, yangın tehlikesi!",Orta
+"Mahsur kalanlar, kurtarma!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, hemen ambulans!",Yüksek
+"Evde yangın, duman var!",Yüksek
+"Yaralı çocuk, acil yardım!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su arızası, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
+"Su sızıntısı, tamir edilmeli!",Orta
+"Kayıp çocuk, arama ekibi!",Yüksek
+"Gaz sızıntısı, evden tahliye!",Yüksek
+"Çöken bina, enkaz altında insanlar!",Yüksek
+"Kadın rehin alındı, polis çağrıldı!",Yüksek
+"Kaza, trafik yoğunluğu!",Orta
+"Yangın alarmı, yangın!",Orta
+"Kurtarma ekibi, mahsur kalanlar!",Yüksek
+"Patlayan su borusu, su baskını!",Yüksek
+"Ağır hasta, ambulans gerekiyor!",Yüksek
+"Yangın, evde duman!",Yüksek
+"Yaralı çocuk, ambulans gerekiyor!",Yüksek
+"Kaza, yaralılar var!",Yüksek
+"Su sızıntısı, tamir edilmeli!",Orta
+Acil tıbbi yardım gerekiyor!,Yüksek
+"Yangın, itfaiye çağrıldı!",Yüksek
+Kayıp evcil hayvan!,Orta
+"Su baskını, binada su suları!",Yüksek
+"Yüksek gerilim hatları, tehlike!",Yüksek
+"Ağır yaralı, hemen ambulans!",Yüksek
+"Kaza, yardım gerekiyor!",Orta
